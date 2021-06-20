@@ -10,13 +10,13 @@
         text-align: center;
         display: block;
         text-transform: uppercase;
-        margin: 50px 0 10px 0;
+        margin: 35px 0 8px 0;
         font-weight: bold;
     }
 
     .Cover {
         width: 100%;
-        margin: 10px 0 40px 0;
+        margin: 10px 0 35px 0;
     }
 
     .Intro {
