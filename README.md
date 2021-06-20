@@ -6,19 +6,16 @@
 
 <div align="center">
     <img width="950px"src="https://kolibri-storage-github.s3.amazonaws.com/covers/profile/cover.gif">
-    <p>
-        Hi. My name is <strong>Alan Mena</strong>, but my dearest friends call me <strong>Kolibri</strong>.
-    </p>
-    <p>
-        I'm a <strong>Product Designer</strong> and <strong>DevOps Developer</strong> from <strong>Tlatelolco</strong> in <strong>Mexico City</strong>. I love to plan, design and build digital products that empower People.
-    </p>
 </div>
+
+Hi. My name is <strong>Alan Mena</strong>, but my dearest friends call me <strong>Kolibri</strong>.
+I'm a <strong>Product Designer</strong> and <strong>DevOps Developer</strong> from <strong>Tlatelolco</strong> in <strong>Mexico City</strong>. I love to plan, design and build digital products that empower People.
 
 <!-- Networking Section -->
 
-<h2 align="center">
+<h3 align="center">
     Come & let's talk
-</h2>
+</h3>
 
 <p align="center">
     <a href="https://twitter.com/The_Kolibri" target="_blank">
@@ -46,9 +43,9 @@
 
 <!-- Stack Section -->
 
-<h2 align="center">
+<h3 align="center">
     My Tech Stack
-</h2>
+</h3>
 
 <p align="center">
     <img alt="HTML" src="https://kolibri-storage-github.s3.amazonaws.com/icons/tools/dev/html.svg" >
