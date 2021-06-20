@@ -8,14 +8,11 @@
     <img width="950px"src="https://kolibri-storage-github.s3.amazonaws.com/covers/profile/cover.gif">
 </div>
 
-Hi. My name is <strong>Alan Mena</strong>, but my dearest friends call me <strong>Kolibri</strong>.
-I'm a <strong>Product Designer</strong> and <strong>DevOps Developer</strong> from <strong>Tlatelolco</strong> in <strong>Mexico City</strong>. I love to plan, design and build digital products that empower People.
-
 <!-- Networking Section -->
 
-<h3 align="center">
+<h4 align="center">
     Come & let's talk
-</h3>
+</h4>
 
 <p align="center">
     <a href="https://twitter.com/The_Kolibri" target="_blank">
@@ -43,9 +40,9 @@ I'm a <strong>Product Designer</strong> and <strong>DevOps Developer</strong> fr
 
 <!-- Stack Section -->
 
-<h3 align="center">
+<h4 align="center">
     My Tech Stack
-</h3>
+</h4>
 
 <p align="center">
     <img alt="HTML" src="https://kolibri-storage-github.s3.amazonaws.com/icons/tools/dev/html.svg" >
